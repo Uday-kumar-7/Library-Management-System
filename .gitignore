@@ -1,0 +1,20 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object and library files
+*.o
+*.obj
+*.a
+*.lib
+
+# Debug and symbols
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code / IDE
+.vscode/
+.vs/
+.idea/

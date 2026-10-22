@@ -1,0 +1,5 @@
+# IssueID|BookID|BookTitle|StudentID|StudentName|IssueDate|DueDate|ReturnDate|Status(0=Active,1=Returned)
+1001|106|Structure and Interpretation|STU001|Alice Smith|2026-10-22|2026-11-05|2026-10-22|1
+1002|101|The C Programming Language|STU001|Alice Smith|2026-10-22|2026-11-05|2026-10-22|1
+1003|102|Introduction to Algorithms|STU002|Bob Jones|2026-10-22|2026-11-05||0
+1004|201|Computer Networks: 5th Edition|STU555|David Warner|2026-10-22|2026-11-05|2026-10-22|1

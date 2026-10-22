@@ -1,0 +1,9 @@
+# ID|Title|Author|Category|TotalCopies|AvailableCopies
+101|The C Programming Language|Brian Kernighan & Dennis Ritchie|Computer Science|5|5
+102|Introduction to Algorithms|Thomas Cormen & Ronald Rivest|Algorithms|4|3
+103|Clean Code|Robert C. Martin|Software Engineering|6|6
+104|Operating System Concepts|Abraham Silberschatz|Operating Systems|3|3
+105|Design Patterns|Erich Gamma et al.|Software Architecture|4|4
+106|Structure and Interpretation|Harold Abelson & Gerald Sussman|Computer Science|2|0
+107|Data Structures and Algorithm Analysis|Mark Allen Weiss|Data Structures|3|3
+201|Computer Networks: 5th Edition|Andrew S. Tanenbaum|Networking|5|5
